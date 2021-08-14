@@ -1,6 +1,6 @@
 My GitHub account is aimed at contributions.
 
-You can find more public projects on [GitLab](https://gitlab.com/Exagone313), or check my [Gitea](https://codesmell.elouworld.org/Exagone313) for more private projects.
+You can find more projects on [GitLab.com](https://gitlab.com/Exagone313) or on my own [GitLab](https://gitlab.ewd.app/) instance.
 
 | [Dotfiles](https://gitlab.com/Exagone313/dotfiles) | [etbloat](https://gitlab.com/Exagone313/etbloat) |
 |:-:|:-:|
