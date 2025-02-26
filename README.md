@@ -1,4 +1,4 @@
-**💥 Stop sending me unsolicited emails. I do not care about your product.**
+**💥 Stop sending me unsolicited emails. I do not care about your product or job proposal.**
 
 My GitHub account is aimed at contributions.
 
